@@ -2,4 +2,4 @@
 
 Código de Dev (Código base)
 
-Rechazos 0.1
+Rechazos 0.2
